@@ -22,7 +22,9 @@ https://www.autocarekauppa.fi
 - reCAPTCHA security
 
 ## 📸 Screenshots
-On the project.
+![Home](screenshot-home.png)
+![Product page](screenshot-product.png)
+![Checkout](screenshot-checkout.png)
 
 ## 🎯 What I built
 - Full frontend from scratch using React
